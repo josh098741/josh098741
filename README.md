@@ -1,27 +1,38 @@
-<!-- Typing SVG Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=10&color=00C9A7&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+Joshua+👋;Software+%26+Web+Developer;Game+Developer+%7C+C%2B%2B+%2B+Unreal;AI+%26+Machine+Learning+Enthusiast;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<!-- Animated Typing Intro -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&color=00D4AA&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I'm+Joshua;Software+%26+Web+Developer;Game+Developer+%7C+C%2B%2B+%2B+Unreal;AI+%26+Machine+Learning+Enthusiast;Welcome+to+my+GitHub+🚀)](https://git.io/typing-svg)
 
+</div>
+
+<!-- Animated Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="80px">
+  <img src="https://raw.githubusercontent.com/josh098741/josh098741/main/assets/divider.gif" alt="divider" width="800px">
 </p>
 
+<!-- Headline -->
 <p align="center"><b>⚡ Solving Problems With Code ⚡</b></p>
 
+<!-- Animated Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="80px">
+  <img src="https://raw.githubusercontent.com/josh098741/josh098741/main/assets/divider.gif" alt="divider" width="800px">
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 Passionate Web Developer & Game Developer with **C++ & Unreal Engine**  
-- 🤖 Enthusiast in **Artificial Intelligence & Machine Learning**  
-- 🌱 Currently mastering **HTML5, CSS3, C++, Node.js, and Python III**  
-- 💞️ Open to collaborate on **web apps, open-source projects, and innovative challenges**  
+## 👨‍💻 About Me
+
+I'm a passionate developer who thrives on creating innovative solutions and bringing ideas to life through code. My journey spans across multiple domains of software development with a special focus on cutting-edge technologies.
+
+- 🎮 **Game Development**: Crafting immersive experiences with C++ & Unreal Engine
+- 🌐 **Web Development**: Building responsive web applications
+- 🤖 **AI/ML Enthusiast**: Exploring machine learning algorithms and AI applications
+- 🌱 **Currently Learning**: HTML5, CSS3, C++, Node.js, and Python III
+- 💡 **Open to collaborate** on web apps, open-source projects, and innovative challenges
 
 ---
 
-## 💻🛠 Tech Stack  
+## 🛠️ Tech Stack
 
 <p align="center">
   
@@ -42,21 +53,28 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+
+<!-- GitHub Stats -->
 <a href="https://github.com/josh098741">
-  <img src="https://github-readme-stats.vercel.app/api?username=josh098741&show_icons=true&theme=react&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh098741&layout=compact&theme=react&hide_border=true" height="165">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=josh098741&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" alt="Joshua's GitHub Stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh098741&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Top Languages" />
 </a>
-</p>
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=josh098741&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&sideNums=00D4AA&currStreakLabel=00D4AA&sideLabels=00D4AA&dates=FFFFFF)](https://git.io/streak-stats)
+
+<!-- Activity Graph -->
+[![Joshua's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josh098741&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&line=00D4AA&point=00D4AA)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-## 📈 Contribution Graph  
+<div align="center">
+  
+## ✨ Always learning. Always building. Always innovating. ✨
 
-[![Joshua's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josh098741&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<p align="center">✨ Always learning. Always building. Always innovating. ✨</p>
+</div>
