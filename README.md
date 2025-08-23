@@ -48,8 +48,6 @@ I'm a passionate developer who thrives on creating innovative solutions and brin
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
 
 </p>
 
@@ -78,5 +76,14 @@ I'm a passionate developer who thrives on creating innovative solutions and brin
 <div align="center">
   
 ## ✨ Always learning. Always building. Always innovating. ✨
+
+</div>
+
+---
+
+<!-- Profile Views Counter -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=josh098741&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
