@@ -62,8 +62,6 @@ I'm a passionate developer who thrives on creating innovative solutions and brin
 </a>
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=josh098741&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&sideNums=00D4AA&currStreakLabel=00D4AA&sideLabels=00D4AA&dates=FFFFFF)](https://git.io/streak-stats)
 
 <!-- Activity Graph -->
