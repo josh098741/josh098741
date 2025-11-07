@@ -26,7 +26,6 @@ I'm a passionate developer who thrives on creating innovative solutions and brin
 
 - 🎮 **Game Development**: Crafting immersive experiences with C++ & Unreal Engine
 - 🌐 **Web Development**: Building responsive web applications
-- 🤖 **AI/ML Enthusiast**: Exploring machine learning algorithms and AI applications
 - 🌱 **Currently Learning**: HTML5, CSS3, C++, Node.js, React, Tailwind, Express, Mongo DB,and Python III
 - 💡 **Open to collaborate** on web apps, open-source projects, and innovative challenges
 
