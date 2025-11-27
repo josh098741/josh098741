@@ -83,28 +83,6 @@ A passionate developer who builds **real-time**, **high-performance**, and **vis
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=josh098741&theme=radical&no-frame=true&no-bg=true&margin-w=10)
-
-</div>
-
----
-
-# 🥇 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-achievements.vercel.app/api?username=josh098741" width="600" />
-
-</div>
-
----
-
-
-
 # 📊 GitHub Analytics
 
 <div align="center">
