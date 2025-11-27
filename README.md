@@ -1,7 +1,7 @@
 <!-- Animated Typing Intro -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=600&color=00D4FF&center=true&vCenter=true&width=700&lines=Hello+World+👋,+I'm+Joshua;Software+Engineer+%7C+Game+Developer;Web+Developer+%7C+C%2B%2B+%2B+Unreal;Builder+of+Awesome+Things+💡;Welcome+to+my+GitHub+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=600&color=00D4FF&center=true&vCenter=true&width=700&lines=Hello+World+👋,+I'm+Joshua;Software+Engineer+%7C+Game+Developer;Fullstack+Developer+%7C+C%2B%2B+%2B+Unreal;Real-time+Apps+%7C+Socket.io+Master;Welcome+to+my+GitHub+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,6 @@
   <img src="https://raw.githubusercontent.com/josh098741/josh098741/main/assets/divider.gif" width="800" />
 </p>
 
-<!-- Headline -->
 <h2 align="center">⚡ Creating, Innovating & Solving Problems With Code ⚡</h2>
 
 <p align="center">
@@ -21,21 +20,21 @@
 
 ## 👨‍💻 About Me
 
-A passionate software engineer who turns ideas into real, scalable, beautiful applications — from **AAA-style game systems** to **full-stack web apps**.
+A passionate developer who builds **real-time**, **high-performance**, and **visually engaging** applications — from **AAA-level game mechanics** to **full-stack production systems**.
 
-- 🎮 **Game Development** — C++ & Unreal Engine (gameplay systems, UI, interactions)  
-- 🌐 **Web Development** — Full-stack with React, Tailwind, Node.js & MongoDB  
-- 🚀 **Love Exploring** — AI tools, realtime apps, optimization, modern frameworks  
-- 📚 **Currently Learning** — Java, C, TanStack Query, Zustand, Python III  
-- 🤝 **Open to collaboration** — game systems, web apps, AI tools, open-source  
+- 🎮 **Game Development** — Unreal Engine & C++  
+- 🌐 **Fullstack Web Dev** — React, Express, MongoDB  
+- ⚡ **Realtime Systems** — WebSockets & Socket.io  
+- 🪄 **Learning** — Java, C, TanStack, Zustand, Python III  
+- 🤝 Open to collaborations involving games, AI tools, and advanced backend systems.
 
 ---
 
-## 🛠️ Tech Stack (Supercharged)
+# 🛠️ Tech Stack (SUPERCHARGED)
 
 ### 🧠 **Languages**
 <p align="center">
-
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,9 +50,9 @@ A passionate software engineer who turns ideas into real, scalable, beautiful ap
 <p align="center">
 
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -68,7 +67,8 @@ A passionate software engineer who turns ideas into real, scalable, beautiful ap
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-111111?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 </p>
 
@@ -84,7 +84,56 @@ A passionate software engineer who turns ideas into real, scalable, beautiful ap
 
 ---
 
-## 📊 GitHub Analytics
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=josh098741&theme=radical&no-frame=true&no-bg=true&margin-w=10)
+
+</div>
+
+---
+
+# 🥇 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-achievements.vercel.app/api?username=josh098741" width="600" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/josh098741/josh098741/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 💠 **Infinite Prism Hub**  
+🔹 Tournament hosting platform  
+🔹 WebSockets real-time system  
+🔹 File uploads, chat, authentication  
+
+### 💠 **AI File Analyzer**  
+🔹 Python AI tool  
+🔹 Summaries + structured results  
+🔹 Supports large files  
+
+### 💠 **Unreal C++ Gameplay Systems**  
+🔹 Interaction components  
+🔹 Animation systems  
+🔹 Player mechanics
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -113,4 +162,5 @@ A passionate software engineer who turns ideas into real, scalable, beautiful ap
 ![Profile Views](https://komarev.com/ghpvc/?username=josh098741&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
 
