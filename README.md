@@ -104,34 +104,7 @@ A passionate developer who builds **real-time**, **high-performance**, and **vis
 
 ---
 
-# 🐍 Contribution Snake Animation
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/josh098741/josh098741/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-### 💠 **Infinite Prism Hub**  
-🔹 Tournament hosting platform  
-🔹 WebSockets real-time system  
-🔹 File uploads, chat, authentication  
-
-### 💠 **AI File Analyzer**  
-🔹 Python AI tool  
-🔹 Summaries + structured results  
-🔹 Supports large files  
-
-### 💠 **Unreal C++ Gameplay Systems**  
-🔹 Interaction components  
-🔹 Animation systems  
-🔹 Player mechanics
-
----
 
 # 📊 GitHub Analytics
 
