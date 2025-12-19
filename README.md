@@ -1,7 +1,7 @@
 <!-- Animated Typing Intro -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=600&color=00D4FF&center=true&vCenter=true&width=700&lines=Hello+World+👋,+I'm+Joshua;Software+Engineer+%7C+Game+Developer;Fullstack+Developer+%7C+C%2B%2B+%2B+Unreal;Real-time+Apps+%7C+Socket.io+Master;Welcome+to+my+GitHub+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=600&color=00D4FF&center=true&vCenter=true&width=700&lines=Hello+World+👋,+I'm+Joshua;Software+Engineer+%7C+Game+Developer;Fullstack+Developer+%7C+C%2B%2B+%2B+Unreal;Mobile+%7C+Web+%7C+Realtime+Systems;Welcome+to+my+GitHub+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,13 +20,15 @@
 
 ## 👨‍💻 About Me
 
-A passionate developer who builds **real-time**, **high-performance**, and **visually engaging** applications — from **AAA-level game mechanics** to **full-stack production systems**.
+A passionate developer who builds **real-time**, **high-performance**, and **visually engaging** applications — from **AAA-level game mechanics** to **full-stack production systems** and **cross-platform mobile apps**.
 
 - 🎮 **Game Development** — Unreal Engine & C++  
-- 🌐 **Fullstack Web Dev** — React, Express, MongoDB  
+- 🌐 **Fullstack Web Dev** — React, Node, Express  
+- 📱 **Mobile Development** — React Native (Expo)  
 - ⚡ **Realtime Systems** — WebSockets & Socket.io  
+- 🗄️ **Databases** — MongoDB & PostgreSQL  
 - 🪄 **Learning** — Java, C, TanStack, Zustand, Python III  
-- 🤝 Open to collaborations involving games, AI tools, and advanced backend systems.
+- 🤝 Open to collaborations involving games, AI tools, mobile apps, and advanced backend systems.
 
 ---
 
@@ -45,10 +47,12 @@ A passionate developer who builds **real-time**, **high-performance**, and **vis
 
 ---
 
-### 🧩 **Frontend**
+### 🧩 **Frontend & Mobile**
 <p align="center">
 
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=react&logoColor=white)
@@ -59,12 +63,13 @@ A passionate developer who builds **real-time**, **high-performance**, and **vis
 
 ---
 
-### ⚙️ **Backend**
+### ⚙️ **Backend & Databases**
 <p align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-111111?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
@@ -112,5 +117,6 @@ A passionate developer who builds **real-time**, **high-performance**, and **vis
 ![Profile Views](https://komarev.com/ghpvc/?username=josh098741&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
 
 
